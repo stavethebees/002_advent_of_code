@@ -1,5 +1,6 @@
-# 002_advent_of_code
+Advent of code solutions
 
-Python solutions are in the python folder, split into folders by day. The solution for any day is called main.py
+Puzzles here: https://adventofcode.com/2020
 
-Solutions in Houdini's VEX are available in the vex folder but I stopped doing solutions after 7 days.
+Python solutions are in the python folder, split into folders by day.
+Solutions in Houdini's VEX are available in the vex folder (named as .h files so it would have C style syntax highlighting) but I stopped doing solutions after 7 days.
