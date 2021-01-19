@@ -1,4 +1,4 @@
-Advent of code solutions
+# Advent of code solutions
 
 Puzzles here: https://adventofcode.com/2020
 
